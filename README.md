@@ -33,7 +33,7 @@ const maxime = {
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,html,css&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,ts,js,html,css&theme=dark" alt="Languages"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs&theme=dark" alt="Frameworks"/>
   <br/>
@@ -41,6 +41,12 @@ const maxime = {
 </p>
 
 ## Featured projects
+
+<p align="center">
+  <a href="https://github.com/mxbhr/phonehome"><b>⭐ phonehome</b></a> — See which apps on your machine phone home, and to whom. A Rust agent reads the kernel socket table over netlink and draws every app's connections on a live globe.
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Rust-b7410e?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Linux_netlink-14242c?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Networking-0a85d1?style=flat-square"/> <img src="https://img.shields.io/badge/Privacy-1d7874?style=flat-square"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/mxbhr/ngap-engine"><b>⭐ ngap-engine</b></a> — Explainable billing engine for French independent nurses: cumulation rules, surcharges and travel allowances, with the rule behind every euro.
