@@ -42,6 +42,12 @@ const maxime = {
 
 ## Featured projects
 
+<p align="center">
+  <a href="https://github.com/mxbhr/ngap-engine"><b>⭐ ngap-engine</b></a> — Explainable billing engine for French independent nurses: cumulation rules, surcharges and travel allowances, with the rule behind every euro.
+  <br/><br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Zero_dependencies-22c55e?style=flat-square"/> <img src="https://img.shields.io/badge/Healthcare-e11d48?style=flat-square"/> <img src="https://img.shields.io/badge/Open_source-MIT-blue?style=flat-square"/>
+</p>
+
 <table>
   <tr>
     <td width="33%" valign="top">
