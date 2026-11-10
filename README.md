@@ -29,3 +29,5 @@
 ### Me contacter
 
 Ouvert aux opportunités en développement logiciel et systèmes embarqués.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxime%20Behr-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-behr67000)
