@@ -1,4 +1,4 @@
-## Maxime
+## Maxime Behr
 
 Élève ingénieur en 5ᵉ année à **Epitech Strasbourg**. Je développe du logiciel de bout en bout, du microcontrôleur à l'application web, avec un goût particulier pour l'automatisation et les outils qui font gagner du temps.
 
